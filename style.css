@@ -1,0 +1,17 @@
+body{
+    font-family:"Exo";
+    padding:0px;
+
+}
+
+
+.section.header h1{
+    font-size:72px;
+    font-weight:600;
+
+}
+.frame{
+    background-color: black;
+    width:1920px;
+    height:160px;
+}
