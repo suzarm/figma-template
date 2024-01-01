@@ -1,18 +1,75 @@
 body{
     font-family:"Exo";
     padding:0px;
-
+  
 }
 
+html{
+    box-sizing:border-box
+}
+
+*,::after,::before{
+    box-sizing: inherit;
+}
 
 .section.header h1{
     font-size:72px;
     font-weight:600;
+}
 
+.navbar-brand{
+    font-weight: 700px;
+    font-size:28px;
+}
+
+.navbar-nav {
+    font-size:20px;
+}
+.navbar-brand{
+    padding-left:315px;
 }
 
 .frame{
     background-color: black;
-    width:1920px;
+    width:1900px;
     height:160px;
 }
+
+.main.picture{
+    background-image: url(Image.png);
+    height:700px;
+}
+.section.main .container-fluid{
+    padding:0px;
+}
+
+.section.main h2{
+    padding-left:315px;
+    padding-top:219px;
+    font-size:48px;
+    width:720px;
+    font-weight:700px;
+}
+.section.main p{
+    padding-left:315px;
+    width:750px;
+    font-size:18px;
+}
+ .section.main .btn{
+    background-color:rgba(255, 120, 45, 1);
+    margin-left:315px;
+    color:white;
+    Padding:10px, 24px, 10px, 24px;
+    font-size:18px;
+    border-radius:24px;
+}
+.section.categories .btn{
+    border-radius:24px;
+    Padding:10px, 24px, 10px, 24px;
+    font-size:18px;
+    
+}
+
+
+
+
