@@ -110,3 +110,23 @@ html{
     height:300px;
     margin:0 auto;
 }
+
+.section.start .container-fluid{
+    background-image: url(Rectangle\ 143.png);
+    width:1300px;
+    height:250px;
+    background-repeat: no-repeat;
+}
+
+.section.feedback .card{
+    width:300px;
+    height:308px;
+}
+.section.start .col-8,.col-4{
+    padding-top:80px;
+}
+
+.section.start .btn.btn-outline-light{
+    border-color: #FF782D;
+    color: #FF782D
+}
