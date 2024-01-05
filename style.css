@@ -86,23 +86,27 @@ html{
 .pic{
     background-image: url(Mask\ group.png);
     height:324px;
-    
+    background-repeat: no-repeat;
+    margin:0 auto;
 }
 
 .section-learn-text{
     font-family: Exo;
-font-size: 32px;
-font-style: normal;
-font-weight: 600;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
 }
 
-.section.grow{
+.section-grow{
     background-image: url(Vector.png);
     background-repeat: no-repeat;
-     height:469px;
-}
+    height:469px;
+ 
+} 
+
 .edu-pic{
     background-image: url(Mask\ group1.png);
     width:1290px;
     height:300px;
+    margin:0 auto;
 }
