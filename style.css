@@ -79,4 +79,30 @@ html{
     gap:10px;
 
 }
+.section.courses .card{
+    background-color: white;
+}
 
+.pic{
+    background-image: url(Mask\ group.png);
+    height:324px;
+    
+}
+
+.section-learn-text{
+    font-family: Exo;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+}
+
+.section.grow{
+    background-image: url(Vector.png);
+    background-repeat: no-repeat;
+     height:469px;
+}
+.edu-pic{
+    background-image: url(Mask\ group1.png);
+    width:1290px;
+    height:300px;
+}
