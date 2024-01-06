@@ -50,4 +50,17 @@ html{
  .bi.bi-calendar-day{
     color:#FF782D;
  }
+ 
+ span{
+    margin-left:20px;
+    border:1px solid black;
+    border-radius: 50%;
+    padding:10px;
+ }
+
+.section.footer .container-fluid{
+    background-color:rgba(85, 85, 85, 1);
+}
+
+
 
