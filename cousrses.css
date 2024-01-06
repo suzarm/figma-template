@@ -41,9 +41,14 @@ html{
     height:590px;
 }
 
-.section.courses .container-fluid{
-    border:1px solid red;
-}
+.section.courses .pict{
+    margin-left:570px;
+ }
+ 
+ .section.courses .text{
+     padding-top:60px;
+     padding-left:320px;
+ }
 .section.courses i{
     color:#FF782D;
 }
