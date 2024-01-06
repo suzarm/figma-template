@@ -53,6 +53,20 @@ html{
     padding-left:25px;
 }
 
+.section.footer .container-fluid{
+    background-color:rgba(85, 85, 85, 1);
+}
 
-
+.section-page li{
+    list-style: none;
+    border-radius: 50%;
+    padding-top:15px;
+  
+    
+}
+.section-page li{
+   
+    background-color:black;
+    color:white;
+}
 
