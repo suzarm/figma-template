@@ -1,0 +1,34 @@
+body{
+    font-family:"Exo";
+    padding:0px;
+  
+}
+
+html{
+    box-sizing:border-box
+}
+
+*,::after,::before{
+    box-sizing: inherit;
+}
+
+.section.header h1{
+    font-size:72px;
+    font-weight:600;
+}
+
+.navbar-brand{
+    font-weight: 700px;
+    font-size:28px;
+}
+
+.navbar-nav {
+    font-size:20px;
+}
+
+
+.frame{
+    background-color: black;
+    width:100%;
+    height:160px;
+}
