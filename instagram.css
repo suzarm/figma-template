@@ -1,0 +1,28 @@
+body{
+    font-family:"Exo";
+    padding:0px;
+  
+}
+
+html{
+    box-sizing:border-box
+}
+
+*,::after,::before{
+    box-sizing: inherit;
+}
+
+.pic{
+    border-radius:50px;
+}
+
+li{
+    list-style:none;
+}
+
+.follow{
+    padding-left:100px;
+}
+/* .section.header .row{
+    border:1px solid lightgrey;
+} */
