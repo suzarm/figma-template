@@ -32,12 +32,12 @@ html{
     height:160px;
 }
 .section.courses .pic{
-   margin-left:500px;
+   margin-left:470px;
 }
 
 .section.courses .text{
     padding-top:60px;
-    padding-left:320px;
+    padding-left:120px;
 }
 .section.courses li{
     list-style: none;
