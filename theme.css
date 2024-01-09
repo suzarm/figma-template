@@ -59,6 +59,6 @@ html{
     background-color:rgba(85, 85, 85, 1);
 }
 
-.col-md-4{
-    border:1px solid red;
+.btn{
+    border-radius:30px;
 }
