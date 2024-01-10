@@ -26,41 +26,39 @@ html{
     font-size:20px;
 }
 
+
 .frame{
-    background-color:black;
+    background-color: black;
     width:100%;
     height:160px;
 }
-.section.courses .pic{
-   margin-left:470px;
+ .pic{
+    background-image: url(Rectangle\ 139\ again.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    width:800px;
+    height:603px;
 }
-
-.section.courses .text{
-    padding-top:60px;
-    padding-left:120px;
-}
-.section.courses li{
-    list-style: none;
-}
- .picture{
+.picture{
     border-radius: 10px;
     width:80px;
     height:70px;
  }
- .bi.bi-calendar-day{
-    color:#FF782D;
+ .section.main li{
+    list-style: none;
  }
- 
- .section.page span{
-    margin-left:20px;
-    border:1px solid black;
-    border-radius: 50%;
-    padding:10px;
- }
+
+.section.main #tag{
+    flex-wrap: wrap;
+    width:300px;
+    padding-right:100px;
+    line-height: 40px;;
+}
 
 .section.footer .container-fluid{
     background-color:rgba(85, 85, 85, 1);
 }
 
-
-
+.btn{
+    border-radius:30px;
+}
