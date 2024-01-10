@@ -1,6 +1,7 @@
 body{
     font-family:"Exo";
     padding:0px;
+    background-color: white;
   
 }
 
@@ -23,6 +24,37 @@ li{
 .follow{
     padding-left:100px;
 }
-/* .section.header .row{
-    border:1px solid lightgrey;
-} */
+
+.img-icon{
+    margin-left:85px;
+}
+
+.new-photo{
+    margin-left:150px;
+}
+ .row-indicator{
+    margin-left:130px;
+}
+.bi.bi-heart{
+margin-left:195px;
+}
+
+.bi.bi-heart-fill{
+    margin-left:195px;
+    color:red;
+}
+
+.bi.bi-heart.last{
+margin-left:105px;
+}
+.row.mt{
+    margin-top:200px;
+}
+
+.form-control{
+    border-radius:50px;
+}
+.section.header,.section.main,.section.comments,.section.post{
+    margin-top:100px;
+}
+
