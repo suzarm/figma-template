@@ -25,6 +25,9 @@ html{
 .navbar-nav {
     font-size:20px;
 }
+.container-fluid{
+    padding:0px;
+}
 
 
 .frame{
@@ -32,6 +35,13 @@ html{
     width:100%;
     height:160px;
 }
+
+.section-main-frame{
+    background-color: black;
+    width:100%;
+    height:200px;
+}
+
 .btn{
     border-radius:30px;
 }

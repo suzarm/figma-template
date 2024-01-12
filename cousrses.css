@@ -47,9 +47,9 @@ html{
      padding-top:60px;
      padding-left:320px;
  }
-.section.courses i{
-    color:#FF782D;
-}
+ .bi.bi-clock-fill{
+    color:rgba(255, 120, 45, 1) ;
+ }
 
 .section.courses li{
     list-style: none;
@@ -72,3 +72,13 @@ html{
     color:white;
 }
 
+.form-control{
+    width:15%;
+    border:0;
+    outline:0;
+    border-bottom:2px solid black;
+    margin-left:490px;
+}
+.section-courses-text{
+    margin-left:200px;
+}

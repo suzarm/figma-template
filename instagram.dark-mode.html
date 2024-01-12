@@ -11,6 +11,7 @@
 </head>
 <body>
     <div class="wrapper">
+        <button onclick="switchColor()">switch</button>
         <div class="navbar navbar-expand bg-light">
             <div class="container">
                 <img src="Isolation_Mode (1).png" style="width:30px;" class="logo">
@@ -41,6 +42,9 @@
                     <li class="nav-item px-2">
                         <a class="nav-link text-dark font-weight-bold pr-5" href="instagram.html" aria-current="page">Instagram Template</a>
                      </li>
+                     <li class="nav-item px-2">
+                        <a class="nav-link text-dark font-weight-bold " href="instagram.dark-mode.html" aria-current="page"><InstagramDark-mode></InstagramDark-mode></a>
+                    </li>
                 </ul>
             </div>
         </div>
@@ -519,12 +523,10 @@
                         <img src="On Light.png">
                     </div>
                 </div>
-                <script type="text/javascript"> function switch() { 
+                <script type="text/javascript"> function switchColor() { 
 
-                    var body = document.body;
-                    
-                    body.classList.add("dark-mode"); 
-                    
+                document.body.classList.add('switchOn')
+
                     } </script>
 </body>
 </html>
